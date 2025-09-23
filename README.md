@@ -10,9 +10,6 @@ By the end of this exercise you will be comfortable with:
 	•	Writing clear commit messages and maintaining a clean history.
 
 ⸻
-Perfect! I can help you update your README guide to include git reset (soft, mixed, hard), git cherry-pick, and also emphasize recovery commands, so it’s a more complete hands-on learning resource. Here’s an updated version you can drop into your README:
-
-⸻
 
 Git & GitHub — Hands-on Recovery + Practice Prompt (step-by-step)
 
